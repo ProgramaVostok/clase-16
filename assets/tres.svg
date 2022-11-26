@@ -3,6 +3,13 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="595.28px" height="841.89px" viewBox="0 0 595.28 841.89" style="enable-background:new 0 0 595.28 841.89;"
 	 xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st1{fill:none;}
+	.st2{fill:#FFFFFF;}
+	.st3{font-family:'MyriadPro-Regular';}
+	.st4{font-size:20px;}
+</style>
 <image style="overflow:visible;" width="1668" height="2388" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABoMAAAlSCAYAAAAK0uh8AAAACXBIWXMAAB9fAAAfXwGscuV3AAAg
 AElEQVR4XuzdWYxf133Y8d+5//9/9o0zw21IilpIUTIpyhQ3LdZiSXYVw3btpHYTtEkTJEGLoC0K
 5CUI+tC+FAjQIkCLAEXRpz7FaJrYCWLXjW1ZlixblrVLlmRtlkRRFHcOOfv8/7cPtGRJHHKszaR+
@@ -3865,6 +3872,15 @@ AAAAxmQQAAAAAADAmAwCAAAAAAAYk0EAAAAAAABjMggAAAAAAGBMBgEAAAAAAIzJIAAAAAAAgDEZ
 BAAAAAAAMCaDAAAAAAAAxmQQAAAAAADAmAwCAAAAAAAYk0EAAAAAAABjMggAAAAAAGBMBgEAAAAA
 AIzJIAAAAAAAgDEZBAAAAAAAMCaDAAAAAAAAxmQQAAAAAADAmAwCAAAAAAAYk0EAAAAAAABjMggA
 AAAAAGBMBgEAAAAAAIzJIAAAAAAAgDEZBAAAAAAAMCaDAAAAAAAAxmQQAAAAAADAmAwCAAAAAAAY
-k0EAAAAAAABjAXBEthgBGNyeAAAAAElFTkSuQmCC" transform="matrix(0.3526 0 0 0.3526 -112.3869 32)">
+k0EAAAAAAABjAXBEthgBGNyeAAAAAElFTkSuQmCC" transform="matrix(0.3526 0 0 0.3526 -146.3869 34)">
 </image>
+<line class="st0" x1="278.25" y1="304.41" x2="377.46" y2="242.4"/>
+<line class="st0" x1="323.35" y1="396.95" x2="377.46" y2="368.63"/>
+<line class="st0" x1="263.64" y1="530.36" x2="377.46" y2="501.1"/>
+<rect x="382.52" y="235.21" class="st1" width="170" height="55"/>
+<text transform="matrix(1 0 0 1 382.5244 249.4106)" class="st2 st3 st4">Escotilla de escape</text>
+<rect x="382.52" y="495.95" class="st1" width="170" height="66"/>
+<text transform="matrix(1 0 0 1 382.5244 510.1539)"><tspan x="0" y="0" class="st2 st3 st4">Cohete de regreso a </tspan><tspan x="0" y="24" class="st2 st3 st4">la tierra</tspan></text>
+<rect x="382.52" y="361.21" class="st1" width="170" height="76"/>
+<text transform="matrix(1 0 0 1 382.5244 375.4106)"><tspan x="0" y="0" class="st2 st3 st4">Tanques de oxígeno </tspan><tspan x="0" y="24" class="st2 st3 st4">y nitrógeno</tspan></text>
 </svg>
